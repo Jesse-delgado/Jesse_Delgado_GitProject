@@ -1,0 +1,8 @@
+h1{
+    color:red;
+    border: 3px solid black;
+    display: inline-block;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+}
